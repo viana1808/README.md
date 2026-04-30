@@ -21,17 +21,13 @@ Este projeto faz parte do portfólio de extensão, visando futuramente a integra
 ## 📸 Demonstração do Projeto
 
 Abaixo, você pode visualizar as principais seções da interface desenvolvida para o projeto de adoção.
-
 ### 🏠 Home e Sobre Nós
-Aqui apresentamos a missão do **Vira Lata de Sorte**.
-![Página Inicial](./img/site-home.png)
-![Sobre Nós](./img/site-sobre-nos.png)
+![Página Inicial](site-home.png.png)
+![Sobre Nós](site-sobre-nos.png.png)
 
 ### 🐾 Galeria de Pets e Como Funciona
-Interface interativa com foco na experiência do usuário e facilidade de navegação.
-![Nossos Pets](./img/site-pes.png)
-![Como Funciona](./img/site-como-funciona.png)
+![Nossos Pets](site-pes.png.png)
+![Como Funciona](site-como-funciona.png.png)
 
 ### ❤️ Conscientização e Apoio
-Seção dedicada a engajar a comunidade através de doações e voluntariado.
-![Como Ajudar](./img/site-como-ajudar.png)
+![Como Ajudar](site-como-ajudar.png.png)
